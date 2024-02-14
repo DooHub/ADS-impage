@@ -1,4 +1,5 @@
-*본 글은 한빛 미디어의 '직장인을 위한 챗GPT'을 참조하여 작성하였음.
+*본 글은 한빛 미디어의 '직장인을 위한 챗GPT'을 참조하여 작성하였음.  
+<img src="https://github.com/DooHub/Prompt_Engineering/assets/99073912/23b56c3c-b2c8-4124-b26e-df75f15114db" width="300" />
 ## ChatGPT 원리
 ### 왜 ChatGPT를 잘 사용하려면 ChatGPT원리를 이해 해야 하는가?
 + ### 구성의 원리를 이해하면, ChatGPT 어떻게 학습을 하는지 알 수 있다.
